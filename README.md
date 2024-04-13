@@ -1,4 +1,4 @@
-# namespace access
+# lumispace access
 ### Documentation
 ---
 <!-- TABLE OF CONTENTS -->
